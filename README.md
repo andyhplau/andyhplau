@@ -1,7 +1,7 @@
 ## Hello! I am Andy 👋
 
-- 🔭 I’m currently looking for a software developer role
-- 👨‍🎓 I've recently graduated from the Computer Systems Technology program (specialized in Relational Databases) at BCIT
+- 🔭 I’m currently looking for a software engineer role
+- 👨‍🎓 I've recently graduated from the Computer Systems Technology program (specialized in Database Systems) at BCIT
 - 🌱 I’m currently learning how to build advanced generative AI products
 - 📫 How to reach me: LinkedIn message
 
